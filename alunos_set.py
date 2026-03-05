@@ -6,7 +6,7 @@ while True:
     print("2 - Ver alunos")
     print("3 - Sair")
 
-    opcao = input("Escolha uma opção: ")
+    opcao = input("Escolha uma opção:")
 
     if opcao == "1":
         nome = input("Digite o nome do aluno: ")
